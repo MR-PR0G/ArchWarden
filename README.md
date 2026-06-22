@@ -12,7 +12,7 @@
 * 📊 **Live Task Manager:** Watch your installations, updates, and removals happen in real-time with a built-in progress tracker and precise status reporting.
 * 🧹 **System Cleanup:** One-click removal of orphaned packages (`pacman -Qdtq`) to keep your system debloated.
 * 🔍 **Smart Filtering:** Instantly filter applications by Categories (GUI/CLI, Games, Dev, etc.), Package Source, and Update Status.
-
+🎃
 ## 🚀 Upcoming Features (Roadmap)
 - [ ] **System Dashboard:** Real-time monitoring of CPU, GPU, and RAM usage.
 - [ ] **Memory & Cache Management:** Deep clean system cache (`pacman -Scc`, `yay -Scc`) and optimize RAM usage dynamically.
