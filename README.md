@@ -8,7 +8,7 @@
 ## ✨ Core Features
 * 🛡️ **Safe-Update Engine:** Actively prevents system breakage by detecting and warning you about unstable, beta, or known broken package updates (especially from the AUR) before they compromise your system.
 * 📦 **Unified Package Management:** Search, install, update, and remove packages across **Pacman, AUR (yay), and Flatpak** simultaneously.
-* ⚡ **Ultra-Fast & Smart Caching:** Uses progressive loading, network timeouts, and local smart caching to load and filter over 100,000 packages in fractions of a second without locking up your CPU or disk.
+* 🔥 **Ultra-Fast & Smart Caching:** Uses progressive loading, network timeouts, and local smart caching to load and filter over 100,000 packages in fractions of a second without locking up your CPU or disk.
 * 📊 **Live Task Manager:** Watch your installations, updates, and removals happen in real-time with a built-in progress tracker and precise status reporting.
 * 🧹 **System Cleanup:** One-click removal of orphaned packages (`pacman -Qdtq`) to keep your system debloated.
 * 🔍 **Smart Filtering:** Instantly filter applications by Categories (GUI/CLI, Games, Dev, etc.), Package Source, and Update Status.
