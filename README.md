@@ -1,4 +1,4 @@
-# ArchWarden 🛡️
+# ArchWarden 🛡️ 💎
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Arch%20Linux-1793d1.svg?logo=arch-linux)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
